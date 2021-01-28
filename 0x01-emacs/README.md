@@ -1,0 +1,1 @@
+The purpose of this diectory is for the 0x01-emacs project. It has next to no use for whoever is reading this.
